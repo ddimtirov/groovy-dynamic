@@ -1,3 +1,5 @@
+[![Dependency Status](https://www.versioneye.com/user/projects/53bb867c609ff088d400005d/badge.svg?style=flat)](https://www.versioneye.com/user/projects/53bb867c609ff088d400005d)
+
 @Dynamic annotation for Groovy
 ==============================
 
